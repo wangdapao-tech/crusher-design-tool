@@ -1,0 +1,5 @@
+Roll Crusher Example:
+
+Diameter: 360 mm
+Speed: 300 rpm
+Width: 2100 mm
